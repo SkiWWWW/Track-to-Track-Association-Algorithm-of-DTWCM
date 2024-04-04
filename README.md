@@ -6,3 +6,5 @@ The Python packages you need are:
 2. numpy
 3. pulp
 4. numba
+
+Please cite my paper as: S. Wan, H. Mu, K. Han et al., A fuzzy track-to-track association algorithm with dynamic time warping for trajectory-level vehicle detection, International Journal of Transportation Science and Technology, https://doi.org/10.1016/j.ijtst.2024.03.001
